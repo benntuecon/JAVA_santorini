@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T18:47:34.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="MSRRbIx_5lAsoWK8PcLZ" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T21:18:48.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2yi2OcH-LZILT4aFulqW" version="20.2.7" type="github">
   <diagram id="4HkdHfbjST_oRCMHt66Q" name="Domain-model">
     <mxGraphModel dx="1018" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VVpRNOQ5_05ZpEFwRIIJ-3" value="Player" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="600" y="80" width="120" height="120" as="geometry" />
+          <mxGeometry x="600" y="80" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VVpRNOQ5_05ZpEFwRIIJ-11" value="Board" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="200" y="80" width="200" height="60" as="geometry" />
